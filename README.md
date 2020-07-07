@@ -28,7 +28,7 @@ Having trouble with the controller ?
 - Change resitors to SMD Type
 - Change Pro Micro USB Pin connector to a smaller footprint
 - Change BUS Power to 16 Pin for 5V connection
-    ( In some cases the 12V Bus Power will kill the Pro Micro )
+    **( In some cases the 12V Bus Power will kill the Pro Micro ! )**
 
 #### v1.4.1
 - Change to USB C Type
