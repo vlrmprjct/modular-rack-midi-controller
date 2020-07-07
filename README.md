@@ -14,7 +14,7 @@ Having trouble with the controller ?
 - Set on the blue or red "Terminator" the DIP switch(es) to `[ OFF ]` depending on how many modules are available.
 - See image below
 
-![Backside](./backside.jpg =100x20)
+![Backside](./backside.jpg)
 
 ### Technical MIDI Informations
 
