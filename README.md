@@ -10,8 +10,8 @@ Having trouble with the controller ?
 
 - First **( ! )**, for a save buspowered mode use the gray adapter cable
 - The last module should have a plugged "Terminator" on `[ OUT ]` ( printed Silklayer )
-- Each module must use a unique channel. ( A0 | A1 | A2 | ... | A7 ) and set it to `[ ON ]`
-- Set on the "Terminator" the switch(es) to `[ OFF ]` depending on how many modules are available.
+- Each module must use a unique channel. ( A0 / A1 / A2 / ... / A7 ) and set it to `[ ON ]`
+- Set on the blue or red "Terminator" the DIP switch(es) to `[ OFF ]` depending on how many modules are available.
 - See image above
 
 ### Technical MIDI Informations
