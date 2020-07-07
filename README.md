@@ -4,7 +4,7 @@
 Having trouble with the controller ?
 [Contact support](https://discuss.tindie.com/users/tme/messages) and i’ll help you sort it out.
 
-![Backside](./backside.jpg)
+![Frontside](./frontside.jpg)
 
 ### Setup Instructions
 
@@ -19,6 +19,8 @@ Having trouble with the controller ?
 - Each module use there own MIDI Channel
 - The first module use Channel 16, the second one use Channel 15 and so on.
 - The Pots use the MIDI CC numbers 102 – 109, these are unused according MIDI Standard
+
+![Backside](./backside.jpg)
 
 ### Changelog
 
