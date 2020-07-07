@@ -12,15 +12,15 @@ Having trouble with the controller ?
 - The last module should have a plugged "Terminator" on `[ OUT ]` ( printed Silklayer )
 - Each module must use a unique channel. ( A0 / A1 / A2 / ... / A7 ) and set it to `[ ON ]`
 - Set on the blue or red "Terminator" the DIP switch(es) to `[ OFF ]` depending on how many modules are available.
-- See image above
+- See image below
+
+![Backside](./backside.jpg =100x20)
 
 ### Technical MIDI Informations
 
 - Each module use there own MIDI Channel
 - The first module use Channel 16, the second one use Channel 15 and so on.
 - The Pots use the MIDI CC numbers 102 – 109, these are unused according MIDI Standard
-
-![Backside](./backside.jpg)
 
 ### Changelog
 
